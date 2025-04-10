@@ -1,0 +1,14 @@
+{
+  "/alerts/page": "app/alerts/page.js",
+  "/customers/page": "app/customers/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/devices/page": "app/devices/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/graphs/page": "app/graphs/page.js",
+  "/monitoring/page": "app/monitoring/page.js",
+  "/network-maps/page": "app/network-maps/page.js",
+  "/olt-management/page": "app/olt-management/page.js",
+  "/ont-management/page": "app/ont-management/page.js",
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js"
+}
